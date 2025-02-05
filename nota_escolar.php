@@ -26,3 +26,5 @@ else
 $cor = "red";
 echo '<span style="color: ' . $cor . ';"><BR>Este é um texto vermelho.</span>';
 
+
+
